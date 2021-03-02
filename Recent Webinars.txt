@@ -1,0 +1,10 @@
+1. Recursion: https://www.youtube.com/watch?v=j8YbQLiwv-4&feature=emb_logo
+2. Graph: https://www.youtube.com/watch?v=ocKrb6TTyqI&feature=emb_logo
+3. Trees: https://www.youtube.com/watch?v=_9ZrvXxIhn8&feature=emb_logo
+4. Dynamic Programming: https://www.youtube.com/watch?v=DBOjCm7WJE4&feature=emb_logo
+5. Dynamic Programming-Part 1(Sanket) : https://www.youtube.com/watch?v=JrLXLSLC7t4&feature=emb_logo
+6. Dynamic Programming-Part 2(Sanket): https://www.youtube.com/watch?v=D1STlYsZ8KU&feature=emb_logo
+7. Knapsack Problem(start from 3:00) : https://www.youtube.com/watch?v=X7SrnbgqHHs&feature=emb_logo
+8. Segment Trees: https://www.youtube.com/watch?v=hHwzHGBoQuE&feature=emb_logo
+9. Fenwick Tree: https://www.youtube.com/watch?v=DxN5-Y8Ld4c&feature=emb_logo
+10. AVL Trees: https://www.youtube.com/watch?v=a96JFhw5Ee4&feature=emb_logo
