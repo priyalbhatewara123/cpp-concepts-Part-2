@@ -1,5 +1,4 @@
-8
-1
-5
-1
+Reversed Stack: 
+3
+2
 1

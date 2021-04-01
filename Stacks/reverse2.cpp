@@ -48,16 +48,16 @@ int main()
 #endif
 
 	stack<int> s;
-	s.push(1);
-	s.push(2);
 	s.push(3);
-	s.push(4);
-	s.push(5);
+	s.push(2);
+	s.push(1);
+	// s.push(4);
+	// s.push(5);
 
 	reverseStack(s);
-	cout << "Reversed Stack: ";
+	cout << "Reversed Stack: " << endl;
 	while (!s.empty()) {
-		cout << s.top() << " ";
+		cout << s.top() << endl;
 		s.pop();
 	}
 	return 0;
